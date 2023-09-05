@@ -13,3 +13,12 @@ class Apuntador
     public short NumeroDeBotones;
     public bool TieneStickers;
 }
+
+class SuperHeroe
+{
+    public string? Nombre;
+    public string? ColorTraje;
+    public bool UsaCapa;
+    public string? UsaMascara;
+    public List<string>? SuperPoderes;
+}
